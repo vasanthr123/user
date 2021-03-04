@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "john",
+      "last_name": "doe",
+      "email": "johndoe@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "kevin",
+      "last_name": "rex",
+      "email": "kevinrex@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "adams",
+      "last_name": "apple",
+      "email": "helloadams@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "peter",
+      "last_name": "england",
+      "email": "petereng@gmail.com"
+    },
+    {
+      "id": 5,
+      "first_name": "allen",
+      "last_name": "solly",
+      "email": "helloadams@gmail.com"
+    },
+    {
+      "id": 6,
+      "first_name": "jackie",
+      "last_name": "chan",
+      "email": "chanthemaster@gmail.com"
+    },
+    {
+      "id": 7,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "first_name": "VASANTH",
+      "last_name": "Rook",
+      "email": "vasanthgasmes407@gmail.com",
+      "id": 8
+    },
+    {
+      "first_name": "tony",
+      "last_name": "stark",
+      "email": "ironman@gmail.com",
+      "id": 9
+    },
+    {
+      "first_name": "tony",
+      "last_name": "stark",
+      "email": "ironman@gmail.com",
+      "id": 10
+    },
+    {
+      "first_name": "aron",
+      "last_name": "finch",
+      "email": "austraila@gmail.com",
+      "id": 11
+    },
+    {
+      "first_name": "alexi",
+      "last_name": "illias",
+      "email": "aliiass@gmail.com",
+      "id": 12
+    },
+    {
+      "first_name": "mark",
+      "last_name": "steve",
+      "email": "steves@yahoo.com",
+      "id": 13
+    },
+    {
+      "first_name": "shira",
+      "last_name": "p",
+      "email": "shiru41@gmail.com",
+      "id": 14
+    },
+    {
+      "first_name": "Cruella",
+      "last_name": "De Vil",
+      "email": "inc.r@hotmail.com",
+      "id": 15
+    }
+   
+  ]
+}
